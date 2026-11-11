@@ -1,6 +1,42 @@
 {
   "generated": "2026-11-11",
-  "note": "Initial data. Addresses were read from the official pages on 2026-11-11 and seeded by hand; the first scheduled run replaces this file with live results for every source.",
-  "sources": [],
-  "onion_location_notes": []
+  "sources": [
+    {
+      "source": "manual",
+      "ok": true,
+      "addresses": 6
+    },
+    {
+      "source": "Tor Project",
+      "ok": true,
+      "addresses": 47
+    },
+    {
+      "source": "Debian",
+      "ok": true,
+      "addresses": 107
+    },
+    {
+      "source": "SecureDrop directory",
+      "ok": true,
+      "addresses": 24
+    },
+    {
+      "source": "Onion-Location",
+      "ok": true,
+      "addresses": 16
+    }
+  ],
+  "onion_location_notes": [
+    "https://duckduckgo.com/: no Onion-Location announced",
+    "https://www.startpage.com/: no Onion-Location announced",
+    "https://search.brave.com/: HTTPError: 429 Client Error: Too Many Requests for url: https://search.brave.com/",
+    "https://kagi.com/: no Onion-Location announced",
+    "https://www.propublica.org/: no Onion-Location announced",
+    "https://www.nytimes.com/: HTTPError: 403 Client Error: Forbidden for url: https://www.nytimes.com/",
+    "https://www.bbc.com/: no Onion-Location announced",
+    "https://theintercept.com/: no Onion-Location announced",
+    "https://www.privacyguides.org/: no Onion-Location announced",
+    "https://www.facebook.com/: no Onion-Location announced"
+  ]
 }

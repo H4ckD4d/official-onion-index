@@ -4,6 +4,185 @@ Addresses added to or changed in the index. Daily re-verification is not listed 
 
 ## 2026-11-11
 
+- Added **arti.torproject.org**: `hjirlp6fu47kox4cnede4zlvaeq672bibss3oxgmsnsc5mdxygqshbqd.onion`
+- Added **aus1.torproject.org**: `ot3ivcdxmalbsbponeeq5222hftpf3pqil24q3s5ejwo5t52l65qusid.onion`
+- Added **aus2.torproject.org**: `b5t7emfr2rn3ixr4lvizpi3stnni4j4p6goxho7lldf4qg4hz5hvpqid.onion`
+- Added **cloud.torproject.org**: `ui3cpcohcoko6aydhuhlkwqqtvadhaflcc5zb7mwandqmcal7sbwzwqd.onion`
+- Added **collector.torproject.org**: `pgmrispjerzzf2tdzbfp624cg5vpbvdw2q5a3hvtsbsx25vnni767yad.onion`
+- Added **collector2.torproject.org**: `urscdffm73o4y6hpp3r43bgmudq42hq2ibdpkld6a7hy3qa44qbvc2yd.onion`
+- Added **consensus-health.torproject.org**: `tkskz5dkjel4xqyw5d5l3k52kgglotwn6vgb5wrl2oa5yi2szvywiyid.onion`
+- Added **deb.tails.net**: `umjqavufhoix3smyq6az2sx4istmuvsgmz4bq5u5x56rnayejoo6l2qd.onion`
+- Added **exonerator.torproject.org**: `pm46i5h2lfewyx6l7pnicbxhts2sxzacvsbmqiemqaspredf2gm3dpad.onion`
+- Added **extra.torproject.org**: `kkr72iohlfix5ipjg776eyhplnl2oiv5tz4h2y2bkhjix3quafvjd5ad.onion`
+- Added **lists-01.torproject.org**: `e6r6heg2ucmlm2po5yrxzf6k23ta5wwbt2adogjcyntlaiopytjz35yd.onion`
+- Added **moat.torproject.org**: `z7m7ogzdhu43nosvjtsuplfmuqa3ge5obahixydhmzdox6owwxfoxzid.onion`
+- Added **newsletter.torproject.org**: `a4ygisnerpgtc5ayerl22pll6cls3oyj54qgpm7qrmb66xrxts6y3lyd.onion`
+- Added **nightlies.tbb.torproject.org**: `umj4zbqdfcyevlkgqgpq6foxk3z75zzxsbgt5jqmfxofrbrjh3crbnad.onion`
+- Added **nyx.torproject.org**: `3ewfgrt4gzfccp6bnquhqb266r3zepiqpnsk3falwygkegtluwuyevid.onion`
+- Added **onionservices.torproject.org**: `ttevhjjsjxz6uqqcjkbig5cycd7n7xv7cmd6f5fcvrqaaa7f3bj36wad.onion`
+- Added **openpgpkey.torproject.org**: `2yldcptk56shc7lwieozoglw3t5ghty7m6mf2faysvfnzccqavbu2mad.onion`
+- Added **people.torproject.org**: `5ecey6oe4rocdsfoigr4idu42cecm2j7zfogc3xc7kfn4uriehwrs6qd.onion`
+- Added **rbm.torproject.org**: `nkuz2tpok7ctwd5ueer5bytj3bm42vp7lgjcsnznal3stotg6vyaakyd.onion`
+- Added **rdsys-moat.torproject.org**: `jcbdm4biw3aac57snk34brzc5fghbszrzde47idnlanj6kf6jmocdgqd.onion`
+- Added **research.torproject.org**: `xhqthou6scpfnwjyzc3ekdgcbvj76ccgyjyxp6cgypxjlcuhnxiktnqd.onion`
+- Added **review.torproject.net**: `zhkhhhnppc5k6xju7n25rjba3wuip73jnodicxl65qdpchrwvvsilcyd.onion`
+- Added **rpm.torproject.org**: `4ayyzfoh5qdrokqaejis3rdredhvf22n3migyxfudpkpunngfc7g4lqd.onion`
+- Added **spec.torproject.org**: `i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion`
+- Added **stem.torproject.org**: `mf34jlghauz5pxjcmdymdqbe5pva4v24logeys446tdrgd5lpsrocmqd.onion`
+- Added **styleguide.torproject.org**: `7khzpw47s35pwo3lvtctwf2szvnq3kgglvzc22elx7of2awdzpovqmqd.onion`
+- Added **submission.torproject.org**: `givpjczyrb5jjseful3o5tn3tg7tidbu4gydl4sa5ekpcipivqaqnpad.onion`
+- Added **survey.torproject.org**: `eh5esdnd6fkbkapfc6nuyvkjgbtnzq2is72lmpwbdbxepd2z7zbgzsqd.onion`
+- Added **svn-archive.torproject.org**: `b63iq6es4biaawfilwftlfkw6a6putogxh4iakei2ioppb7dsfucekyd.onion`
+- Added **tpa.torproject.org**: `65sphwmep6ti5oo3usizno67ox5jzsxxzgauzttjnqxhjtaem7wy4pyd.onion`
+- Added **www.onion-router.net**: `tttyx2vwp7ihml3vkhywwcizv6nbwrikpgeciy3qrow7l7muak2pnhad.onion`
+- Added **10years.debconf.org**: `spdobp2dcjfg3c56j37y7hmsi6tjauslqvbcgfgvhyuv37yiodphirad.onion`
+- Added **appstream.debian.org**: `6swc2kxdtxwqku6ieo2bppmehqo3dncdaznvytb37fbsnanlkci3rbid.onion`
+- Added **backports-staging.debian.org**: `fpwbdxpgygpxzilnlezsr64k7cp6lscbycmkq6wfzfdhjgek3pqzlmyd.onion`
+- Added **backports.debian.org**: `ii72bjpditizloapohdkpbepu6pkf7rz2jxgsuwebfcn5q5x6qa3xwqd.onion`
+- Added **bcn2014.mini.debconf.org**: `mowhzza2pmhj3zambwhaqugwtekfrqftnnrm4xvb4dzaigmp66s3mmad.onion`
+- Added **berlin2024.mini.debconf.org**: `f4acfe5i73w7sdzhw27hzaz4m4nkfh5snnlhaqjk7eejfuvxgqarq2qd.onion`
+- Added **bh.mini.debconf.org**: `w2likml3du2zgssusmh5lougamykso2wita3ein3afyg5x25fk44zoqd.onion`
+- Added **bits.debian.org**: `xpsuwzyljwcmk3vmurhw5ryvi66azdexzdabng5bqu56r6xc35puyeyd.onion`
+- Added **blends.debian.org**: `zhpfotmfpypyvahcz52iicir4vpqnhnboixg563yojm2itaiukegamyd.onion`
+- Added **bootstrap.debian.net**: `ha7gnvks566tk7g4fh7lxm3qtb6eadtcycobibw6uwa6g4icaeazcfad.onion`
+- Added **br2016.mini.debconf.org**: `u65ka5qktmviha6fi4pensw3gp4qjjs5vya5esdmrwtuyenrmxr4njad.onion`
+- Added **br2017.mini.debconf.org**: `q4fkpxl6wfjn24f5yzto6srtakdqmqxk4sd4ng5wdvzsemdk5e34ioad.onion`
+- Added **br2018.mini.debconf.org**: `bbgf3q2u5x643cpfwkzsdih34ua4x3eusob6k2nxqve4rzza5nqn7vqd.onion`
+- Added **bucharest2015.mini.debconf.org**: `sw5blsaad2gd67ccvkmnma7qeimi3mepgjlv2zcz2vtcs3nct6kimuyd.onion`
+- Added **busan2025.mini.debconf.org**: `vi2hpchlzbgzg5oq3d2ypjeygbcninriaygenyrmswsdbuyqtft2mtad.onion`
+- Added **cambridge2024.mini.debconf.org**: `jcy5dycsu5shg2cxnpojrk6a4evewvcao3uutf2ntpxfu6cxjemyn5qd.onion`
+- Added **campinas.mini.debconf.org**: `2klgkbpvt6pr5yuq7jrysan6emltx6d46qhosttt22svkc3qz75h5kyd.onion`
+- Added **cdbuilder-logs.debian.org**: `etv6ce3pbbxvfoevihlqir2xik27rb4j2l5sqpx7d2unhtpiz3ffiqad.onion`
+- Added **cdimage-search.debian.org**: `r6ogx3w3s6rg3gxm3kprurn77z2oim665yr5pcxhr76yit4g65y76zad.onion`
+- Added **chronicles.debian.org**: `mowyaze2i4wfnyl5mgmhv67cditlvs4zicqbjj57lzhxfvfphd34dvqd.onion`
+- Added **d-i.debian.org**: `7fezvzv4qm7tly43qikg4juagwx4nyy3iwruq2xds5n64jt4j2yyvwad.onion`
+- Added **ddtp.debian.org**: `iebkxzjscv4jgaucepdbdf4b7bqmcwd5peulm5cbpoavlsnkfhda5gyd.onion`
+- Added **debaday.debian.net**: `h34nug3iwqjf2376fmmzdhgqivckzemcujmarlptfqeqtq7vya47yyad.onion`
+- Added **debconf0.debconf.org**: `s36sir2fpydvcpon3bb5oz3jghjqci3mn7z26cza5x5b4il2izrybsqd.onion`
+- Added **debconf1.debconf.org**: `dywfwwrpxmyaz3cpydemb3k7qw5d5nevat6rpwzqndyj2h2xxf5vibid.onion`
+- Added **debconf10.debconf.org**: `alm6yjl2ry7kjieean3k3f3urqv6vlh2uv6bn4grsgu4vir3eannxrqd.onion`
+- Added **debconf11.debconf.org**: `d6lywvnkk7grlhpvlyjrxbgqoqvzpvw2fv6j3fhk6fetmica6ayjcnid.onion`
+- Added **debconf12.debconf.org**: `nkrn33kekot25j2wh52k3xmfewip4tha6s6es4ivdy4n6ruogrhd47qd.onion`
+- Added **debconf13.debconf.org**: `l54wuyoo32aqezzte7tcta2khpzc3kgwyr7vayfx3vnoyoohajoam4qd.onion`
+- Added **debconf14.debconf.org**: `p5sdauvqlthmjuljoig7zgt6ybk7o5emng4l2he6gofvirfpkdz46rad.onion`
+- Added **debconf15.debconf.org**: `m2x4cztyasoyalil5htan3onbknasgwjsxithajk2glydlv4x3ky62yd.onion`
+- Added **debconf16.debconf.org**: `tjulrdmbhkwzdvborn6r723mdyuqgolctejxm3hze2ygvmagmwei3iad.onion`
+- Added **debconf17.debconf.org**: `knyybdmc4kakd7gs4y6fvshg27t7jud5oiyrmaihijpepxbehcn7svid.onion`
+- Added **debconf18.debconf.org**: `2b5calm3k7sozky46ac65hx3edlmbssogpbg57h2iycolpmjtjwukyyd.onion`
+- Added **debconf19.debconf.org**: `t6unvxtmmjiy6fap4ynahv6ntjdoqice6glvzzdlsohnuhuwa3fojlad.onion`
+- Added **debconf2.debconf.org**: `st44cej736t2jpbzaww6vbws6mhs74n5tycyr6b2vuvvreko4yigruqd.onion`
+- Added **debconf20.debconf.org**: `tfrconhwbjuq4kkjds55rrzmdxhg5ousbdmwkqjjhsov3dbfhcsjakqd.onion`
+- Added **debconf21.debconf.org**: `arf5sgoqvzde4vp6coqlmdjroqdngbq3rm5yd6eahndgxadmnieiivyd.onion`
+- Added **debconf22.debconf.org**: `p6eqtjmvwkiw2pteelfqi4oj4nqwzb64xdvacijuavclxhcpqostipad.onion`
+- Added **debconf23.debconf.org**: `lybn62gyzy5af245ue3s3ykoegywjgexdv7ptrnnfczn2reaqv23sqqd.onion`
+- Added **debconf3.debconf.org**: `ctndhon5ms5qw4zvip4lirgofkgs5f6pmxnloszzssftudzo34rbeyad.onion`
+- Added **debconf4.debconf.org**: `zqz43hjr4azeovtgr4osgdsok66d7ezawoysxxuyyw4qzia6hdhaosqd.onion`
+- Added **debconf5.debconf.org**: `ibcf6qlyirfnc6vcfuv4y7k6oowwqz4jmcjbrkxov43feyqj6cnyvcqd.onion`
+- Added **debconf6.debconf.org**: `cunu7dhfzpelt7cxlidw2zcjfe5b65dvsdquf562w5xiraxaqxn4mtid.onion`
+- Added **debconf7.debconf.org**: `h2zkj5xeycxb2esnyqeabuuo6ui6jlkdb72qjfi2hu3y3h5ilpmjphid.onion`
+- Added **debconf8.debconf.org**: `fb7ehq3gx3nw5rqyjuzqixvd3trpc4ps3jiiialpn2qqw6jgfvjevlad.onion`
+- Added **debconf9.debconf.org**: `v6ubdgugeqwitnr4cl3gijxnt5lpmxvubhr3zw5legnqioygmqlqozid.onion`
+- Added **debdeltas.debian.net**: `h3zfg7pvbedsteur5ruyvku7p7bvmx3tws7m5uxnes53cu6xaiscubyd.onion`
+- Added **debug.mirrors.debian.org**: `3lz3irtzg5i4z2sz3qca3oz3sdk3p5a3xlmz3zqwornapeofvoudajid.onion`
+- Added **dpl.debian.org**: `6lgapegkgqepaeh7s6mpxv4lvf7awabky7ginkaycfmq7eko66kivcyd.onion`
+- Added **dsa.debian.org**: `k2htee64gyxc4zm7ssrd57zz4t5rbm2rhu4cdpfhdh7y4bkmmft7idad.onion`
+- Added **es.debconf.org**: `3cgri2x3iidmaearj3aryls7w3e74jo3xxxfh2ym5y4hseit3oqvzxqd.onion`
+- Added **fr.debconf.org**: `uvf45xdz72xv7plztdtbc6j32pukihpegtnvdcewczrnv32acmqtamad.onion`
+- Added **fr2010.mini.debconf.org**: `exid5ottpil6hacodg4bfo73ks2wqu522gqsggdslvkjm6ikfbqs46ad.onion`
+- Added **fr2012.mini.debconf.org**: `b5do6pb42g3idrc3hha74bmrsavkn3xuirz3dyq4uhsp3u6ebziml6ad.onion`
+- Added **ftp.debian.org**: `2s4yqjx5ul6okpp3f2gaunr2syex5jgbfpfvhxxbbjwnrsvbk5v3qbid.onion`
+- Added **ftp.ports.debian.org**: `xa2v5hi4gwrvrhj3awz2v4crufymvjhkx3q25wd3n2bpf5574du4afqd.onion`
+- Added **hamburg-2022.mini.debconf.org**: `5pyzapaecfrn5vvjzyygp5jhe4ciuugbeba3kqah7ycdddnpt3frpryd.onion`
+- Added **hamburg-2023.mini.debconf.org**: `5fyzyfcfqqww47ydvf2v226dfrxpe4xdoc6wkbacc4v5lcuh6covd3ad.onion`
+- Added **hamburg2025.mini.debconf.org**: `s4nyaleuttjlpfkpz7oaqpb3ijauyttj5rryxfdwkysmym4kfhchn3yd.onion`
+- Added **hamburg2026.mini.debconf.org**: `jk5dcx6lz7fz6jstkrjh7hxoybixgdqkxr7fde6fvu3cpb3ym34f2sid.onion`
+- Added **in2010.mini.debconf.org**: `2dkvaqxp4qfffcv6ifyvcrzb2t4evb2bbzkhyfw7pu3mg3jicl53qyyd.onion`
+- Added **in2011.mini.debconf.org**: `fgwzchg2oxrllptbdc6cj6gzsbemgljajbssut2h4qcevgmi2iqa3zqd.onion`
+- Added **in2013.mini.debconf.org**: `sofdtz7phy6p6u3tpjax6e5gfyhbndkpdbvwnp5ixk5v6veuvrlsdoqd.onion`
+- Added **in2014.mini.debconf.org**: `nqlupyypvmlaas6sadmw7f4kgc53dli7fuvy7q2y46ernvegfe344cyd.onion`
+- Added **in2015.mini.debconf.org**: `dojkmu4smsknvbkdek4mhpl4x3x6yhdbcgsezallhzfiafmi2ntn7oad.onion`
+- Added **in2016.mini.debconf.org**: `hbrcmwnkjnlqcgsa6vice2azafphljnbe75yn2zr5kgqjwp7a5se6sad.onion`
+- Added **in2021.mini.debconf.org**: `2x2rtdijbuqqw3664ktxwsv255m2m4itmhxhpcvmalqhbiztqfckmsqd.onion`
+- Added **in2022.mini.debconf.org**: `5v2fzjlnjwxdo25xlaj5ciqgzu3v4xtobxsiizbjoqwpq3n4utq3d4qd.onion`
+- Added **incoming.debian.org**: `yhugxzj2ys6livectgptp2ohuqnchtfltetjbkn2jkyersatww2am4yd.onion`
+- Added **incoming.ports.debian.org**: `y63o645rjql7rm3pnw4sarqaoxrhjk3o62vhgqbkgzjouue2i7qybyad.onion`
+- Added **kanpur2026.mini.debconf.org**: `hytx72zv5kaopo3g2u6smwk7hbc5piamgpn635lu7t4eoxkaj2icguyd.onion`
+- Added **lintian.debian.org**: `4ynqnnkbfkq327lqr4kfj2udaki224h4isbpjwj5tagxqcgzu7rv6oqd.onion`
+- Added **maceio.mini.debconf.org**: `do4sbqtt6pgdu2qktvxi26vmrwjfqhpojtfmfokclpfud6i7j4ebhnad.onion`
+- Added **manpages.debian.org**: `cuhebenhpxdqskoodifdh5w7dkufya5xwaa3luci7252fc6hwo2dmjid.onion`
+- Added **mdco2.mini.debconf.org**: `npqpz7jy56yinqeryzfhxvzkqg3qdqt3la3p3nqq6svrcgjuywyszlid.onion`
+- Added **mdcobr2020.debian.net**: `zvne6gv7llbazewtpq2aox6wuiuwz3bpetducirepio5row5csnvjvid.onion`
+- Added **mdcobr2024.mini.debconf.org**: `bs4pehkxbjaiqgiyg7xftd7nhphxlj3vnrh3ynadugldwxiupbgysgyd.onion`
+- Added **media.debconf.org**: `4ja5brrs4x4qvgquthmjkjykgxbvnfwau7ucgfb3ebclnkl5cpjyw4yd.onion`
+- Added **metadata.ftp-master.debian.org**: `4inahjbeyrmqzhvqbsgtcmoibz47joueo3f44rgidig6xdzmljue7uyd.onion`
+- Added **metadata.security.debian.org**: `3uuivcvkhvilnhpad2j5nfdl4q7tbq5b7kx5qmb62agdq2uvwqgipcid.onion`
+- Added **micronews.debian.org**: `boowxjehkfc3ip6pnsrtt32s6j252rdzng5rcjhjt7yzh2ieiz5ka4yd.onion`
+- Added **miniconf10.debconf.org**: `2ptpv4mi2xtkcn5vrbga4wpgcm2neksgkawn7bwdfmysek6mqytjcwqd.onion`
+- Added **mirror-master.debian.org**: `3dglwm65senudd7vqyn6wkwpj2wnwp2rfiw4lmbfa7j6as4b5ekix2id.onion`
+- Added **mon.debian.org**: `u27zcsfqdlspd5kkzumjxhmniyqpoa3gtdlp47g3tssivsjsea7gb3yd.onion`
+- Added **news.debian.net**: `hg36q46xemkwvqcod2pfcuwh24aqcpgcbwqibyblu3nt7l562zahatid.onion`
+- Added **ni2013.mini.debconf.org**: `cq5qgbcftje3y2xa7o6fbuazcbkcnuoxdczet66awdy4skzh676ewkad.onion`
+- Added **nz2015.mini.debconf.org**: `j2bwwakp5uxzqykhmuiumj5b4sbtcb2syy4kz5ecql6sgcie7z7sctqd.onion`
+- Added **onion.debian.org**: `jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion`
+- Added **openpgpkey.debian.org**: `nxw6ies7yaoxybxtorhdknuwiynck4xe5hwfg6evmqoxwyk7nn7nriid.onion`
+- Added **penta.debconf.org**: `ej2mxfuqifpvgnczbfejhegy5z664ojfmr4feyveomtglkccrzn67yad.onion`
+- Added **people.debian.org**: `x6tkjqr46ghqmlqiwyllf5ufg6ciyexsxxfw2copx7cptw4aszq6fdqd.onion`
+- Added **planet.debian.org**: `3cbzkrvakrpetjjppdwzbzqrlkmzatjs7jbyazap5gwutj32gcltjpqd.onion`
+- Added **pt2023.mini.debconf.org**: `mk5hh2yiniwxnqk6jankr3biuful25ocwlzx6fqmis7uhzyee4nhbwqd.onion`
+- Added **release.debian.org**: `44w2g3oly2wy6f5q3x5wgdlxj3xqjmd6juhqfp73btzdpue2ujazboyd.onion`
+- Added **security-debug.backend.mirrors.debian.org**: `i3hhdhcoozin2qyb5yhhufszgvhz6m2zfy6n6len2gjmetvbnnxcenyd.onion`
+- Added **security-team.debian.org**: `juf6ppcps4bxgkoe7wdx5zgv5mwf3bbujzjjoo7dkwpz3vpkkbix3gid.onion`
+- Added **security.debian.org**: `5ajw6aqf3ep7sijnscdzw77t7xq4xjpsy335yb2wiwgouo7yfxtjlmid.onion`
+- Added **summit.debconf.org**: `ruye4n75ifmwqtbj6d43yczflptvz6sttdqvyb4bukds2z2j5qgivaqd.onion`
+- Added **timeline.debian.net**: `ck2b4sppxizlsdj5cuwan6gdiee3fzrw6jlxep7htgy7euxa4m6uukid.onion`
+- Added **tn23.mini.debconf.org**: `a6edt446yugmd5m7ym2ffwu63mofe2z66ttnk3v7v6jrdsjcyubg3yyd.onion`
+- Added **toulouse2024.mini.debconf.org**: `mzhul75t6vmnka65nu2y4cdqfzybcypm2bcdf43b7j7igqgbrbz6f7ad.onion`
+- Added **tracker.debian.org**: `7fgb4sq435vg7slw3u7m2ayze3imybpe7qm3htdklreoag3l6n2mtkyd.onion`
+- Added **wnpp-by-tags.debian.net**: `prtmu3zoeqh4iefuwda7cbs5mbaelqfrcss5exnyayfcyhybeq3s7ryd.onion`
+- Added **www.debian.org**: `5ekxbftvqg26oir5wle3p27ax3wksbxcecnm6oemju7bjra2pn26s3qd.onion`
+- Added **www.ports.debian.org**: `wzmhgtr235jahyxhrpj7wh675vrgouqhpyaecyn6x4r2menefypwyqad.onion`
+- Added **packages.debian.org**: `2s4yqjx5ul6okpp3f2gaunr2syex5jgbfpfvhxxbbjwnrsvbk5v3qbid.onion`
+- Added **The Globe and Mail**: `a4zum5ydurvljrohxqp2rjjal5kro4ge2q2qizuonf2jubkhcr627gad.onion`
+- Added **Kenneth R. Rosen**: `dpsw5tvlh2pccviydqw2cz5tjszd34zcdj322oikydqvgsqwitxup7yd.onion`
+- Added **Greekleaks**: `jatasaqcoe7lqdpcyxo7vl3e5tdvl5jgmtadfat77i25qdj6z6a4ulad.onion`
+- Added **CBC**: `gppg43zz5d2yfuom3yfmxnnokn3zj4mekt55onlng3zs653ty4fio6qd.onion`
+- Added **Der Spiegel**: `q6vdlj2ukulrqk37piqgxucpcwtxzdjhvjzqrfbevuhrzimsgjltmpqd.onion`
+- Added **The Economist**: `mxmddqsh4jnr4gjan37ayin3fu5ecnejxge4wjhj4i45qq5djbxdjtad.onion`
+- Added **Whistleblow.co**: `zuybtx2nop5cxfz4gyc7hzxpterf3pvf6zixe5cscajhlgqrexpkcoqd.onion`
+- Added **News24**: `uhmj4j5pnwbpmkebfze3qgjmkum465fvok376nxtpku5yvyv5takz6qd.onion`
+- Added **Aftenposten AS**: `tiykfvhb562gheutfnedysnhrxpxoztyszkqyroloyepwzxmxien77id.onion`
+- Added **Bloomberg News**: `ogdwaroarq4p6rnfn2hl4crvldyruyc2g24435qtxmd3twhevg7dsqid.onion`
+- Added **Forbidden Stories**: `fg25fqpu2dnxp24xs3jlcley4hp2inshpzek44q3czkhq3zffoqk26id.onion`
+- Added **Whistleblower Aid**: `kogbxf4ysay2qzozmg7ar45ijqmj2vxrwqa4upzqq2i7sqj7wv7wcdqd.onion`
+- Added **New York Times**: `ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion`
+- Added **The Guardian**: `xp44cagis447k3lpb4wwhcqukix6cgqokbuys24vmxmbzmaq2gjvc2yd.onion`
+- Added **Aftonbladet**: `xm33ge4kupk5o66eqxcd2r4fqcplpqb2sbdduf5z2nw4g2jrxe57luid.onion`
+- Added **NRK**: `537ztcntpbmspja4mkpxldpsoc46mqlssnsaklqnfw3gnlpj5glcjgid.onion`
+- Added **ProPublica**: `33xu4yhum2eiisxm6fntaslayop76fvaqgt3ak5dakdm3t7cub25cead.onion`
+- Added **The Washington Post**: `vfnmxpa6fo4jdpyq3yneqhglluweax2uclvxkytfpmpkp5rsl75ir5qd.onion`
+- Added **Dagbladet**: `ydbpz5knb6ji3bdtahhm3wo7sed6lsy5vqnwfpnhpez4bquvoexbz7qd.onion`
+- Added **Süddeutsche Zeitung**: `udhauo3m3fh7v6yfiuornjzxn3fh6vlp4ooo3wogvghcnv5xik6mnayd.onion`
+- Added **Financial Times**: `nqu6crmtnzs2hs5abo2uqni53yqsnnwqnerdxuzyz5yxairxlzjzt6yd.onion`
+- Added **Stefania Maurizi**: `jxsb4ovmavjy3r64bak4ha63xwggf3nzf3vikvs23r2avm5rhzmaqtqd.onion`
+- Added **Forbes**: `6zonlfhh7aqtfwoyvdlad3nxn6ljecx2k6tyyy3spt43nn54q6lvncid.onion`
+- Added **Bloomberg Industry Group**: `3qqupamfznjrai6p4td7epa6pvidpumas2xjsihat73z23f37l2y52id.onion`
+- Added **The Guardian**: `www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion`
+- Added **Deutsche Welle**: `www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion`
+- Added **Proton**: `protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion`
+- Added **Mullvad VPN**: `o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion`
+- Added **Riseup**: `vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion`
+- Added **Brave**: `brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
+- Added **Qubes OS**: `qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion`
+- Added **Whonix**: `www.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion`
+- Added **OnionShare**: `lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion`
+- Added **SecureDrop**: `sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion`
+- Added **Freedom of the Press Foundation**: `fpfjxcrmw437h6z2xl3w4czl55kvkmxpapg37bbopsafdu7q454byxid.onion`
+- Added **Amnesty International**: `www.amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion`
+- Added **Internet Archive**: `archivep75mbjunhxc6x4j5mwjmomyxb573v42baldlqu56ruil2oiad.onion`
+- Added **CIA**: `ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion`
+
+## 2026-11-11
+
 - Added **DuckDuckGo**: `duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
 - Added **Startpage**: `startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion`
 - Added **Brave Search**: `search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion`
