@@ -1,0 +1,10 @@
+# Address changes approved by the maintainer.
+#
+# The daily run never replaces an accepted address on its own. When a source
+# starts publishing a different address, the run opens a review issue. After
+# checking the owner's page by hand, approve the change here:
+#
+# accept:
+#   example.org: "newaddress...onion"
+
+accept: {}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this index, please credit the h4ckd4d project."
+title: "Official Onion Index"
+abstract: "A daily, source-backed index of official .onion addresses."
+type: dataset
+authors:
+  - name: "h4ckd4d project"
+    website: "https://github.com/H4ckD4d"
+repository-code: "https://github.com/H4ckD4d/official-onion-index"
+license: CC-BY-4.0
+keywords:
+  - tor
+  - onion-services
+  - osint
+  - anti-phishing

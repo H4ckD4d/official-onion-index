@@ -1,0 +1,340 @@
+{
+  "name": "official-onion-index",
+  "maintainer": "h4ckd4d project",
+  "repository": "https://github.com/H4ckD4d/official-onion-index",
+  "license": "CC BY 4.0",
+  "generated": "2026-11-11",
+  "count": 22,
+  "entries": [
+    {
+      "service": "ahmia.fi",
+      "name": "Ahmia",
+      "category": "Search engines",
+      "onion": "juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion",
+      "sources": [
+        {
+          "kind": "manual",
+          "name": "Published page (checked by hand)",
+          "url": "https://ahmia.fi/about/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "search.brave.com",
+      "name": "Brave Search",
+      "category": "Search engines",
+      "onion": "search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion",
+      "sources": [
+        {
+          "kind": "manual",
+          "name": "Published page (checked by hand)",
+          "url": "https://community.brave.app/t/update-new-onion-addresses-for-brave-website-and-brave-search/271955"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "duckduckgo.com",
+      "name": "DuckDuckGo",
+      "category": "Search engines",
+      "onion": "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+      "sources": [
+        {
+          "kind": "manual",
+          "name": "Published page (checked by hand)",
+          "url": "https://tb-manual.torproject.org/onion-services/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "kagi.com",
+      "name": "Kagi",
+      "category": "Search engines",
+      "onion": "kagi2pv5bdcxxqla5itjzje2cgdccuwept5ub6patvmvn3qgmgjd6vid.onion",
+      "sources": [
+        {
+          "kind": "manual",
+          "name": "Published page (checked by hand)",
+          "url": "https://help.kagi.com/kagi/privacy/tor.html"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "metager.org",
+      "name": "MetaGer",
+      "category": "Search engines",
+      "onion": "metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion",
+      "sources": [
+        {
+          "kind": "manual",
+          "name": "Published page (checked by hand)",
+          "url": "https://metager.org/hilfe/datensicherheit"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "www.startpage.com",
+      "name": "Startpage",
+      "category": "Search engines",
+      "onion": "startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion",
+      "sources": [
+        {
+          "kind": "manual",
+          "name": "Published page (checked by hand)",
+          "url": "https://support.startpage.com/hc/en-us/articles/24786602537364-Startpage-s-Tor-onion-service"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "archive.torproject.org",
+      "name": "archive.torproject.org",
+      "category": "Tor Project",
+      "onion": "uy3qxvwzwoeztnellvvhxh7ju7kfvlsauka7avilcjg7domzxptbq7qd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "blog.torproject.org",
+      "name": "blog.torproject.org",
+      "category": "Tor Project",
+      "onion": "pzhdfe7jraknpj2qgu5cz2u3i4deuyfwmonvzu5i3nyw4t4bmg7o5pad.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "bridges.torproject.org",
+      "name": "bridges.torproject.org",
+      "category": "Tor Project",
+      "onion": "yq5jjvr7drkjrelzhut7kgclfuro65jjlivyzfmxiq2kyv5lickrl4qd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "community.torproject.org",
+      "name": "community.torproject.org",
+      "category": "Tor Project",
+      "onion": "xmrhfasfg5suueegrnc4gsgyi2tyclcy5oz7f5drnrodmdtob6t2ioyd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "deb.torproject.org",
+      "name": "deb.torproject.org",
+      "category": "Tor Project",
+      "onion": "apow7mjfryruh65chtdydfmqfpj5btws7nbocgtaovhvezgccyjazpqd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "dist.torproject.org",
+      "name": "dist.torproject.org",
+      "category": "Tor Project",
+      "onion": "scpalcwstkydpa3y7dbpkjs2dtr7zvtvdbyj3dqwkucfrwyixcl5ptqd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "download.torproject.org",
+      "name": "download.torproject.org",
+      "category": "Tor Project",
+      "onion": "vczcbkhpkhcywcyuyd7rfhu4bebsyscp2qoeyyvjva3km5py5rpisdid.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "forum.torproject.org",
+      "name": "forum.torproject.org",
+      "category": "Tor Project",
+      "onion": "v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "gitlab.torproject.org",
+      "name": "gitlab.torproject.org",
+      "category": "Tor Project",
+      "onion": "eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "metrics.torproject.org",
+      "name": "metrics.torproject.org",
+      "category": "Tor Project",
+      "onion": "hctxrvjzfpvmzh2jllqhgvvkoepxb4kfzdjm6h7egcwlumggtktiftid.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "onion.torproject.org",
+      "name": "onion.torproject.org",
+      "category": "Tor Project",
+      "onion": "xao2lxsmia2edq2n5zxg6uahx6xox2t7bfjw6b5vdzsxi7ezmqob6qid.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "snowflake.torproject.org",
+      "name": "snowflake.torproject.org",
+      "category": "Tor Project",
+      "onion": "oljlphash3bpqtrvqpr5gwzrhroziw4mddidi5d2qa4qjejcbrmoypqd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "support.torproject.org",
+      "name": "support.torproject.org",
+      "category": "Tor Project",
+      "onion": "rzuwtpc4wb3xdzrj3yeajsvm3fkq4vbeubm2tdxaqruzzzgs5dwemlad.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "tails.net",
+      "name": "tails.net",
+      "category": "Tor Project",
+      "onion": "tzoz3bensgxyzs7da7lpgsn3a74h7hlbm4wa6ytq2tg6ktd57w22vqqd.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "tb-manual.torproject.org",
+      "name": "tb-manual.torproject.org",
+      "category": "Tor Project",
+      "onion": "dsbqrprgkqqifztta6h3w7i2htjhnq7d3qkh3c7gvc35e66rrcv66did.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    },
+    {
+      "service": "www.torproject.org",
+      "name": "www.torproject.org",
+      "category": "Tor Project",
+      "onion": "2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion",
+      "sources": [
+        {
+          "kind": "official-list",
+          "name": "Tor Project official list",
+          "url": "https://onion.torproject.org/"
+        }
+      ],
+      "first_seen": "2026-11-11",
+      "last_verified": "2026-11-11"
+    }
+  ]
+}

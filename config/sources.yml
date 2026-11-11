@@ -1,0 +1,66 @@
+# Sources checked by the daily run.
+# Only sources controlled by the owner of the service (or, for SecureDrop,
+# by Freedom of the Press Foundation) belong here.
+
+maintainer: "h4ckd4d project"
+repository: "https://github.com/H4ckD4d/official-onion-index"
+
+category_order:
+  - "Search engines"
+  - "News and journalism"
+  - "Privacy services"
+  - "Operating systems and software"
+  - "Organisations and archives"
+  - "Tor Project"
+  - "Debian"
+  - "SecureDrop tip lines"
+
+# Lists published by the organisation that runs the services.
+official_lists:
+  - name: "Tor Project"
+    url: "https://onion.torproject.org/"
+    category: "Tor Project"
+    stop_at: "Legacy"          # the page ends with deprecated addresses
+    exclude:                   # internal monitoring and staging hosts
+      - "^alertmanager"
+      - "^grafana"
+      - "^prometheus"
+      - "^karma"
+      - "crm\\."
+      - "^db\\."
+      - "^ircbouncer"
+      - "^2019\\."
+      - "^test-data"
+  - name: "Debian"
+    url: "https://onion.debian.org/"
+    category: "Debian"
+
+# Directory run by Freedom of the Press Foundation.
+securedrop:
+  url: "https://securedrop.org/api/v1/directory/"
+  category: "SecureDrop tip lines"
+
+# Candidate websites checked for an Onion-Location header or <meta> tag.
+# A site is only listed in the index if it announces an address itself;
+# candidates that announce nothing are skipped (see data/status.json).
+onion_location:
+  - {url: "https://www.propublica.org/", name: "ProPublica", category: "News and journalism"}
+  - {url: "https://www.nytimes.com/", name: "The New York Times", category: "News and journalism"}
+  - {url: "https://www.theguardian.com/", name: "The Guardian", category: "News and journalism"}
+  - {url: "https://www.bbc.com/", name: "BBC", category: "News and journalism"}
+  - {url: "https://www.dw.com/", name: "Deutsche Welle", category: "News and journalism"}
+  - {url: "https://theintercept.com/", name: "The Intercept", category: "News and journalism"}
+  - {url: "https://proton.me/", name: "Proton", category: "Privacy services"}
+  - {url: "https://mullvad.net/", name: "Mullvad VPN", category: "Privacy services"}
+  - {url: "https://riseup.net/", name: "Riseup", category: "Privacy services"}
+  - {url: "https://www.privacyguides.org/", name: "Privacy Guides", category: "Privacy services"}
+  - {url: "https://brave.com/", name: "Brave", category: "Operating systems and software"}
+  - {url: "https://www.qubes-os.org/", name: "Qubes OS", category: "Operating systems and software"}
+  - {url: "https://www.whonix.org/", name: "Whonix", category: "Operating systems and software"}
+  - {url: "https://onionshare.org/", name: "OnionShare", category: "Operating systems and software"}
+  - {url: "https://securedrop.org/", name: "SecureDrop", category: "Operating systems and software"}
+  - {url: "https://freedom.press/", name: "Freedom of the Press Foundation", category: "Organisations and archives"}
+  - {url: "https://www.amnesty.org/", name: "Amnesty International", category: "Organisations and archives"}
+  - {url: "https://archive.org/", name: "Internet Archive", category: "Organisations and archives"}
+  - {url: "https://www.cia.gov/", name: "CIA", category: "Organisations and archives"}
+  - {url: "https://www.facebook.com/", name: "Facebook", category: "Organisations and archives"}

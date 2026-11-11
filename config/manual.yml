@@ -1,0 +1,49 @@
+# Addresses copied by hand from a page published by the owner of the service
+# or, where the owner has none, from Tor Project documentation.
+# Every entry needs the page that publishes the address (proof_url) and the
+# date it was last checked by a person (verified).
+# The daily run also looks for an Onion-Location announcement on `site`;
+# when it matches, the entry is upgraded to machine-verified evidence.
+
+entries:
+  - name: "DuckDuckGo"
+    category: "Search engines"
+    site: "https://duckduckgo.com/"
+    onion: "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion"
+    proof_url: "https://tb-manual.torproject.org/onion-services/"
+    verified: "2026-11-11"
+
+  - name: "Startpage"
+    category: "Search engines"
+    site: "https://www.startpage.com/"
+    onion: "startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion"
+    proof_url: "https://support.startpage.com/hc/en-us/articles/24786602537364-Startpage-s-Tor-onion-service"
+    verified: "2026-11-11"
+
+  - name: "Brave Search"
+    category: "Search engines"
+    site: "https://search.brave.com/"
+    onion: "search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion"
+    proof_url: "https://community.brave.app/t/update-new-onion-addresses-for-brave-website-and-brave-search/271955"
+    verified: "2026-11-11"
+
+  - name: "MetaGer"
+    category: "Search engines"
+    site: "https://metager.org/"
+    onion: "metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion"
+    proof_url: "https://metager.org/hilfe/datensicherheit"
+    verified: "2026-11-11"
+
+  - name: "Kagi"
+    category: "Search engines"
+    site: "https://kagi.com/"
+    onion: "kagi2pv5bdcxxqla5itjzje2cgdccuwept5ub6patvmvn3qgmgjd6vid.onion"
+    proof_url: "https://help.kagi.com/kagi/privacy/tor.html"
+    verified: "2026-11-11"
+
+  - name: "Ahmia"
+    category: "Search engines"
+    site: "https://ahmia.fi/"
+    onion: "juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion"
+    proof_url: "https://ahmia.fi/about/"
+    verified: "2026-11-11"

@@ -1,0 +1,23 @@
+category,name,service,onion,evidence,source_url,first_seen,last_verified
+Search engines,Ahmia,ahmia.fi,juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion,manual,https://ahmia.fi/about/,2026-11-11,2026-11-11
+Search engines,Brave Search,search.brave.com,search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion,manual,https://community.brave.app/t/update-new-onion-addresses-for-brave-website-and-brave-search/271955,2026-11-11,2026-11-11
+Search engines,DuckDuckGo,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,manual,https://tb-manual.torproject.org/onion-services/,2026-11-11,2026-11-11
+Search engines,Kagi,kagi.com,kagi2pv5bdcxxqla5itjzje2cgdccuwept5ub6patvmvn3qgmgjd6vid.onion,manual,https://help.kagi.com/kagi/privacy/tor.html,2026-11-11,2026-11-11
+Search engines,MetaGer,metager.org,metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion,manual,https://metager.org/hilfe/datensicherheit,2026-11-11,2026-11-11
+Search engines,Startpage,www.startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion,manual,https://support.startpage.com/hc/en-us/articles/24786602537364-Startpage-s-Tor-onion-service,2026-11-11,2026-11-11
+Tor Project,archive.torproject.org,archive.torproject.org,uy3qxvwzwoeztnellvvhxh7ju7kfvlsauka7avilcjg7domzxptbq7qd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,blog.torproject.org,blog.torproject.org,pzhdfe7jraknpj2qgu5cz2u3i4deuyfwmonvzu5i3nyw4t4bmg7o5pad.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,bridges.torproject.org,bridges.torproject.org,yq5jjvr7drkjrelzhut7kgclfuro65jjlivyzfmxiq2kyv5lickrl4qd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,community.torproject.org,community.torproject.org,xmrhfasfg5suueegrnc4gsgyi2tyclcy5oz7f5drnrodmdtob6t2ioyd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,deb.torproject.org,deb.torproject.org,apow7mjfryruh65chtdydfmqfpj5btws7nbocgtaovhvezgccyjazpqd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,dist.torproject.org,dist.torproject.org,scpalcwstkydpa3y7dbpkjs2dtr7zvtvdbyj3dqwkucfrwyixcl5ptqd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,download.torproject.org,download.torproject.org,vczcbkhpkhcywcyuyd7rfhu4bebsyscp2qoeyyvjva3km5py5rpisdid.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,forum.torproject.org,forum.torproject.org,v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,gitlab.torproject.org,gitlab.torproject.org,eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,metrics.torproject.org,metrics.torproject.org,hctxrvjzfpvmzh2jllqhgvvkoepxb4kfzdjm6h7egcwlumggtktiftid.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,onion.torproject.org,onion.torproject.org,xao2lxsmia2edq2n5zxg6uahx6xox2t7bfjw6b5vdzsxi7ezmqob6qid.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,snowflake.torproject.org,snowflake.torproject.org,oljlphash3bpqtrvqpr5gwzrhroziw4mddidi5d2qa4qjejcbrmoypqd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,support.torproject.org,support.torproject.org,rzuwtpc4wb3xdzrj3yeajsvm3fkq4vbeubm2tdxaqruzzzgs5dwemlad.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,tails.net,tails.net,tzoz3bensgxyzs7da7lpgsn3a74h7hlbm4wa6ytq2tg6ktd57w22vqqd.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,tb-manual.torproject.org,tb-manual.torproject.org,dsbqrprgkqqifztta6h3w7i2htjhnq7d3qkh3c7gvc35e66rrcv66did.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
+Tor Project,www.torproject.org,www.torproject.org,2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion,official-list,https://onion.torproject.org/,2026-11-11,2026-11-11
