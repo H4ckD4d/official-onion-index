@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "sources": [
     {
       "source": "manual",
@@ -33,7 +33,7 @@
     "https://search.brave.com/: HTTPError: 429 Client Error: Too Many Requests for url: https://search.brave.com/",
     "https://kagi.com/: no Onion-Location announced",
     "https://www.propublica.org/: no Onion-Location announced",
-    "https://www.nytimes.com/: HTTPError: 403 Client Error: Forbidden for url: https://www.nytimes.com/",
+    "https://www.nytimes.com/: no Onion-Location announced",
     "https://www.bbc.com/: no Onion-Location announced",
     "https://theintercept.com/: no Onion-Location announced",
     "https://www.privacyguides.org/: no Onion-Location announced",
