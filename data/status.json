@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "sources": [
     {
       "source": "manual",
@@ -24,7 +24,7 @@
     {
       "source": "Onion-Location",
       "ok": true,
-      "addresses": 15
+      "addresses": 16
     }
   ],
   "onion_location_notes": [
@@ -37,7 +37,6 @@
     "https://www.bbc.com/: no Onion-Location announced",
     "https://theintercept.com/: no Onion-Location announced",
     "https://www.privacyguides.org/: no Onion-Location announced",
-    "https://www.whonix.org/: ConnectionError: HTTPSConnectionPool(host='www.whonix.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.whonix.org', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
     "https://www.facebook.com/: no Onion-Location announced"
   ]
 }
